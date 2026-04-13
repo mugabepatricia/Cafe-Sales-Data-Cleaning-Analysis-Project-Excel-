@@ -37,12 +37,12 @@ An interactive dashboard was built in Excel to visualize insights.
   - Monthly revenue trends  
   - Product performance  
   - Sales distribution  
-## 🎯 Key Insights 
+## Key Insights 
 - Peak sales months and seasonal trends  
 - Best-selling items by revenue and quantity  
 - Preferred payment methods  
 - Differences between in-store and takeaway sales  
-## 🛠 Tools Used
+## Tools Used
 - Microsoft Excel  
   - Data Cleaning  
   - Pivot Tables  
@@ -55,9 +55,10 @@ To demonstrate practical skills in:
 - Business insight generation  
 ## Files Included
 - Raw Dataset
+  <a href="https://github.com/mugabepatricia/Cafe-Sales-Data-Cleaning-Analysis-Project-Excel-/blob/main/Cleaned%20cafe%20sales%20dataset.xlsx">
 - Cleaned Dataset  
 - Excel Dashboard File  
-## 💡 Future Improvements
+## Future Improvements
 - Perform deeper analysis using Python or SQL  
 - Build an interactive dashboard using Power BI or Tableau  
 - Add predictive analysis for sales forecasting  
