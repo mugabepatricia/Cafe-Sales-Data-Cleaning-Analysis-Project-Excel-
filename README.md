@@ -27,7 +27,7 @@ After cleaning, pivot tables were created to explore key business metrics:
 - Quantity Sold per Item  
 - Revenue per Month  
 These analyses helped uncover sales trends, top-performing products, and customer purchasing patterns.
-## 📊 Dashboard
+## Dashboard
 An interactive dashboard was built in Excel to visualize insights.
 ### Features:
 - Dynamic filtering using slicers:
@@ -54,10 +54,7 @@ To demonstrate practical skills in:
 - Data visualization  
 - Business insight generation  
 ## Files Included
-- Raw Dataset
-  <a href="https://github.com/mugabepatricia/Cafe-Sales-Data-Cleaning-Analysis-Project-Excel-/blob/main/Cleaned%20cafe%20sales%20dataset.xlsx">
-- Cleaned Dataset  
-- Excel Dashboard File  
+- <a href="https://github.com/mugabepatricia/Cafe-Sales-Data-Cleaning-Analysis-Project-Excel-/blob/main/Cleaned%20cafe%20sales%20dataset.xlsx">Cleaned dataset</a>  
 ## Future Improvements
 - Perform deeper analysis using Python or SQL  
 - Build an interactive dashboard using Power BI or Tableau  
