@@ -54,7 +54,8 @@ To demonstrate practical skills in:
 - Data visualization  
 - Business insight generation  
 ## Files Included
-- <a href="https://github.com/mugabepatricia/Cafe-Sales-Data-Cleaning-Analysis-Project-Excel-/blob/main/Cleaned%20cafe%20sales%20dataset.xlsx">Cleaned dataset</a>  
+- <a href="https://github.com/mugabepatricia/Cafe-Sales-Data-Cleaning-Analysis-Project-Excel-/blob/main/Cleaned%20cafe%20sales%20dataset.xlsx">Cleaned dataset</a>
+- <a href="https://github.com/mugabepatricia/Cafe-Sales-Data-Cleaning-Analysis-Project-Excel-/blob/main/dirty_cafe_sales.csv">Dirty dataset</a>
 ## Future Improvements
 - Perform deeper analysis using Python or SQL  
 - Build an interactive dashboard using Power BI or Tableau  
